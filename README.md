@@ -1,4 +1,5 @@
 🧠 Ejemplo del Patrón Strategy con Spring Boot
+
 Este proyecto demuestra cómo implementar el patrón de diseño Strategy en una aplicación Spring Boot. El objetivo es seleccionar dinámicamente una estrategia (algoritmo o comportamiento) en tiempo de ejecución, eliminando estructuras condicionales como if/else.
 
 🚀 Tecnologías utilizadas
