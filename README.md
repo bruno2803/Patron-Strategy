@@ -40,9 +40,5 @@ http://localhost:8080/<endpoint>?tipo=CSV
 2. Agregar el nuevo tipo al enum si es necesario.
 3. ¡Listo! Spring la detectará automáticamente.
 
-📚 Créditos
-Basado en el video de SACAViX Tech y su repositorio original:
-https://github.com/yoandypv/spring-strategy-ejemplo
-
 📝 Licencia
 Este proyecto es solo con fines educativos y de práctica personal.
