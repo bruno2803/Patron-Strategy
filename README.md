@@ -20,8 +20,8 @@ src/
 ⚙️ Cómo ejecutar
 
 1. Cloná el repositorio:
-git clone https://github.com/yoandypv/spring-strategy-ejemplo.git
-cd spring-strategy-ejemplo
+git clone https://github.com/bruno2803/Patron-Strategy.git
+cd Patron-Strategy
 3. Ejecutá la app:
 mvn spring-boot:run
 3. Probá la lógica desde Postman o navegador:
